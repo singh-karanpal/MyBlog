@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: A lab that I found interesting in MDS
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+As MDS program is accelerated Masters Degree program, students have a lot to cover. We have to cover Stats & Probabilities, Programming, Data Visualization, Data Wrangling and many other key concepts used in Data Science. However, every project in Data Science should be created and maintained on some framework. This if not done properly can be a huge disaster for a project overall because there will be so many people working on a single project and they will be writing multiple chunks of code, many of them might be editing same files again and again. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+So, I really liked my Computing and Platform Class & Lab. We are learning how to work collaboratively. How to merge and pull code from Github repositories and much more. I believe a successful project is the one which can be consumed seamlessly by customer. To have this seamless experience, proper infrastructure is required. Computing & Platform labs are teaching us all of these concepts from scratch.
